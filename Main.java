@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 
 public class Main {
-    
+
     // HW 4 Task 4.20.k
     public static void main(String[] args) {
         int deg = 2;
